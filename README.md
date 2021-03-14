@@ -7,6 +7,6 @@
 * 簡易的bmi計算器，根據不同的檢測數值顯示並且能記錄每次的測驗結果。
 
 ### skill 
-* HTML5 
+* HTML
 * CSS 
 * Javascript
